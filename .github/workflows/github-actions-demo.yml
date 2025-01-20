@@ -14,6 +14,7 @@ on:
       - reopened
 jobs:
   Explore-GitHub-Actions:
+    name: 7a7a7 7a7a 7a7a
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
