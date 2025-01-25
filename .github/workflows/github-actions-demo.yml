@@ -2,9 +2,15 @@ name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
   push:
+    paths:
+      - "**.js"
+      - "**.json"
     branches:
       - master
   pull_request:
+    paths:
+      - "**.js"
+      - "**.json"
     branches:
       - master
     types:
@@ -14,7 +20,7 @@ on:
       - reopened
 jobs:
   Explore-GitHub-Actions:
-    name: 7a7a7 7a7a 7a7a
+    name: Code Standards & Quality
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
