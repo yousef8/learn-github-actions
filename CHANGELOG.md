@@ -1,7 +1,18 @@
 # Changelog
 
-## 1.0.0 (2025-01-25)
+## [2.0.0](https://github.com/yousef8/learn-github-actions/compare/v1.0.0...v2.0.0) (2025-01-25)
 
+### Features
+
+* cool feat for release 2 ([7348a13](https://github.com/yousef8/learn-github-actions/commit/7348a13e35bddfb9353b42b49e8fac660fd9f2e2))
+  * hello changelog
+* very very coold feature ([c4a936b](https://github.com/yousef8/learn-github-actions/commit/c4a936bf212813f35a21050aef88397a81437945))
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([b985829](https://github.com/yousef8/learn-github-actions/commit/b985829973a5d92cf7fba06b016b14d1341b5b52))
+
+## 1.0.0 (2025-01-25)
 
 ### Features
 
@@ -14,7 +25,6 @@
 * specify branches to run workflow ([9bed28a](https://github.com/yousef8/learn-github-actions/commit/9bed28af73dc7fb7b8c6466999dc09854b774d1c))
 * test workflow on pr ([#1](https://github.com/yousef8/learn-github-actions/issues/1)) ([31df71a](https://github.com/yousef8/learn-github-actions/commit/31df71ab79f245664c005a79a63d6222f675f7db))
 * update workflow job name ([9d15206](https://github.com/yousef8/learn-github-actions/commit/9d15206f3916f4588fff7f8ecdc0584c4955e35b))
-
 
 ### Bug Fixes
 
