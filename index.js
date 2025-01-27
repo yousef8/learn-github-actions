@@ -14,3 +14,5 @@ console.log('second log for release 2')
 console.log("first log after tags purge")
 
 console.log('first log after base tag')
+
+console.log('2nd log after base tag')
