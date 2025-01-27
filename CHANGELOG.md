@@ -13,3 +13,8 @@
 ### Bug Fixes
 
 * after base tag ([441c628](https://github.com/yousef8/learn-github-actions/commit/441c62881c3d61d82cab9231ed90c9eb66bb47ee))
+
+## v0.0.0
+
+* Init project
+
