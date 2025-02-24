@@ -3,7 +3,7 @@ name: Second Workflow
 on:
   workflow_run:
     workflows: [first]
-    branches: [main]
+    branches: [master]
     types:
       - completed
 
