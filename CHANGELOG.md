@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.2.0](https://github.com/yousef8/learn-github-actions/compare/v0.1.0...v0.2.0) (2025-02-24)
+
+
+### Features
+
+* test workflow_run ([809c040](https://github.com/yousef8/learn-github-actions/commit/809c04059c3b397c8291a4907e409c46377a7ec1))
+
+
+### Bug Fixes
+
+* branch name ([7015471](https://github.com/yousef8/learn-github-actions/commit/70154717a946195f6116990578c7255ceb302349))
+* identify workflow by file name ([9e582ce](https://github.com/yousef8/learn-github-actions/commit/9e582ce094864bd26c1680ab62d652eddb93391d))
+* old ([d037eb7](https://github.com/yousef8/learn-github-actions/commit/d037eb7a69454be7b53b773308db23c4c2cd43e6))
+* remove double quotes ([520ab51](https://github.com/yousef8/learn-github-actions/commit/520ab51159be4584152e75e6a89033a4ec4e3889))
+
 ## [0.1.0](https://github.com/yousef8/learn-github-actions/compare/v0.0.0...v0.1.0) (2025-01-27)
 
 
