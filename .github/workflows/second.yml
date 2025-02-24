@@ -1,0 +1,16 @@
+name: Second Workflow
+
+on:
+  workflow_run:
+    workflows: ["First Workflow"]
+    branches: [main]
+    types:
+      - completed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy
+        run: echo "Deploying the project..."
